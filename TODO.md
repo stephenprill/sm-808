@@ -1,0 +1,2 @@
+- style the inputs
+- add bpm input
