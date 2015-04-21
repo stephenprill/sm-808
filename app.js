@@ -2,10 +2,6 @@ $(document).ready(function () {
 
   $("#start").click(function () {
 
-    // if I give you |X|_|_|_|X|_|_|_|
-    // eigth notes in 4/4
-    // assuming 60 bpm
-
     var a = $("#snare_input").val();
     var array = a.split("|");
     for (var i = 0; i < array.length; i++) {
